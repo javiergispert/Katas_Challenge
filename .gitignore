@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Carpeta excluída de los CSV del Lab AB Testing
+Challenges/AB_Test/data/
+.Challenges/AB_Test/data/
